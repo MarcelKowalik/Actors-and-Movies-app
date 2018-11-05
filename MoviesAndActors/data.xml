@@ -1,0 +1,218 @@
+<object-stream>
+  <Movies>
+    <hashTable>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <head>
+          <key class="string">Shrek</key>
+          <value class="Movie">
+            <title>Shrek</title>
+            <yearOfRelease>2010</yearOfRelease>
+            <runningTime>88.0</runningTime>
+            <genre>Comedy</genre>
+            <description>Film</description>
+            <posterImage>http://www.efantastyka.pl/files/filmy/shrek.jpg</posterImage>
+            <actors>
+              <hashTable>
+                <myLinkedList>
+                  <size>0</size>
+                </myLinkedList>
+                <myLinkedList>
+                  <size>0</size>
+                </myLinkedList>
+                <myLinkedList>
+                  <size>0</size>
+                </myLinkedList>
+                <myLinkedList>
+                  <head>
+                    <key class="string">Brad Pit</key>
+                    <value class="Actor">
+                      <name>Brad Pit</name>
+                      <dateofbirth>02/02/1998</dateofbirth>
+                      <gender>F</gender>
+                      <nationality>American</nationality>
+                      <movies>
+                        <hashTable>
+                          <myLinkedList>
+                            <size>0</size>
+                          </myLinkedList>
+                          <myLinkedList>
+                            <size>0</size>
+                          </myLinkedList>
+                          <myLinkedList>
+                            <size>0</size>
+                          </myLinkedList>
+                          <myLinkedList>
+                            <size>0</size>
+                          </myLinkedList>
+                          <myLinkedList>
+                            <head>
+                              <key class="string">Shrek</key>
+                              <value class="Movie" reference="../../../../../../../../../.."/>
+                              <outer-class reference="../.."/>
+                            </head>
+                            <tail reference="../head"/>
+                            <size>1</size>
+                          </myLinkedList>
+                        </hashTable>
+                        <size>5</size>
+                        <numberOfContents>1</numberOfContents>
+                      </movies>
+                    </value>
+                    <outer-class reference="../.."/>
+                  </head>
+                  <tail reference="../head"/>
+                  <size>1</size>
+                </myLinkedList>
+                <myLinkedList>
+                  <size>0</size>
+                </myLinkedList>
+              </hashTable>
+              <size>5</size>
+              <numberOfContents>1</numberOfContents>
+            </actors>
+          </value>
+          <outer-class reference="../.."/>
+        </head>
+        <tail reference="../head"/>
+        <size>1</size>
+      </myLinkedList>
+    </hashTable>
+    <size>10</size>
+    <numberOfContents>1</numberOfContents>
+  </Movies>
+  <Actors>
+    <hashTable>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+      <myLinkedList>
+        <head>
+          <key class="string">Brad Pit</key>
+          <value class="Actor">
+            <name>Brad Pit</name>
+            <dateofbirth>02/02/1998</dateofbirth>
+            <gender>F</gender>
+            <nationality>American</nationality>
+            <movies>
+              <hashTable>
+                <myLinkedList>
+                  <size>0</size>
+                </myLinkedList>
+                <myLinkedList>
+                  <size>0</size>
+                </myLinkedList>
+                <myLinkedList>
+                  <size>0</size>
+                </myLinkedList>
+                <myLinkedList>
+                  <size>0</size>
+                </myLinkedList>
+                <myLinkedList>
+                  <head>
+                    <key class="string">Shrek</key>
+                    <value class="Movie">
+                      <title>Shrek</title>
+                      <yearOfRelease>2010</yearOfRelease>
+                      <runningTime>88.0</runningTime>
+                      <genre>Comedy</genre>
+                      <description>Film</description>
+                      <posterImage>http://www.efantastyka.pl/files/filmy/shrek.jpg</posterImage>
+                      <actors>
+                        <hashTable>
+                          <myLinkedList>
+                            <size>0</size>
+                          </myLinkedList>
+                          <myLinkedList>
+                            <size>0</size>
+                          </myLinkedList>
+                          <myLinkedList>
+                            <size>0</size>
+                          </myLinkedList>
+                          <myLinkedList>
+                            <head>
+                              <key class="string">Brad Pit</key>
+                              <value class="Actor" reference="../../../../../../../../../.."/>
+                              <outer-class reference="../.."/>
+                            </head>
+                            <tail reference="../head"/>
+                            <size>1</size>
+                          </myLinkedList>
+                          <myLinkedList>
+                            <size>0</size>
+                          </myLinkedList>
+                        </hashTable>
+                        <size>5</size>
+                        <numberOfContents>1</numberOfContents>
+                      </actors>
+                    </value>
+                    <outer-class reference="../.."/>
+                  </head>
+                  <tail reference="../head"/>
+                  <size>1</size>
+                </myLinkedList>
+              </hashTable>
+              <size>5</size>
+              <numberOfContents>1</numberOfContents>
+            </movies>
+          </value>
+          <outer-class reference="../.."/>
+        </head>
+        <tail reference="../head"/>
+        <size>1</size>
+      </myLinkedList>
+      <myLinkedList>
+        <size>0</size>
+      </myLinkedList>
+    </hashTable>
+    <size>10</size>
+    <numberOfContents>1</numberOfContents>
+  </Actors>
+</object-stream>
